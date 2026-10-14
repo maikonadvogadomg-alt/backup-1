@@ -4,12 +4,25 @@
 <head>
   <meta charset="UTF-8">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
-  <meta name="theme-color" content="#667eea">
-  <link rel="manifest" href="manifest.json">
-  <link rel="icon"
-    href="data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 100 100'><text y='75' font-size='75'>🚀</text></svg>">
+<text y='75' font-size='75'>🚀</text></svg>">
   <link rel="stylesheet" href="setup-dashboard.css">
   <title>🚀 Setup Dashboard</title>
+  <!-- PWA:inicio (gerado pelo Mini SK — pode refazer no painel 📱 PWA) -->
+  <link rel="manifest" href="setup-dashboard.webmanifest">
+  <meta name="theme-color" content="#667eea">
+  <meta name="mobile-web-app-capable" content="yes">
+  <meta name="apple-mobile-web-app-capable" content="yes">
+  <meta name="apple-mobile-web-app-status-bar-style" content="black-translucent">
+  <meta name="apple-mobile-web-app-title" content="🚀 Setup Das">
+  <link rel="icon" href="favicon.ico" sizes="any">
+  <link rel="icon" href="icons/icon.svg" type="image/svg+xml">
+  <link rel="apple-touch-icon" href="icons/apple-touch-icon.png">
+  <script>
+    if ('serviceWorker' in navigator && location.protocol.indexOf('http') === 0) {
+      addEventListener('load', function () { navigator.serviceWorker.register('service-worker.js').catch(function (e) { console.warn('Service worker:', e); }); });
+    }
+  </script>
+  <!-- PWA:fim -->
 </head>
 
 <body>
@@ -53,16 +66,7 @@
     </div>
   </div>
 
-  <script>
-    if ('serviceWorker' in navigator) {
-      navigator.serviceWorker.register('setup-sw.js').then(reg => {
-        console.log('✅ Service Worker registrado');
-      }).catch(err => {
-        console.log('❌ SW error:', err);
-      });
-    }
-  </script>
-  <script src="setup-dashboard.js"></script>
+<script src="setup-dashboard.js"></script>
 </body>
 
 </html>

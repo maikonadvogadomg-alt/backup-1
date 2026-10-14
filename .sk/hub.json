@@ -1,0 +1,304 @@
+{
+  "titulo": "backup-1",
+  "arquivo": "index.html",
+  "itens": [
+    {
+      "path": "1/Montador  (1).html",
+      "nome": "🚀 Setup Dashboard",
+      "desc": "",
+      "on": true,
+      "icone": ""
+    },
+    {
+      "path": "1/Montador  (2).html",
+      "nome": "⚙️ Replit Config Manager",
+      "desc": "",
+      "on": true,
+      "icone": ""
+    },
+    {
+      "path": "1/Montador  (3).html",
+      "nome": "⚙️ Replit Config Manager",
+      "desc": "",
+      "on": true,
+      "icone": ""
+    },
+    {
+      "path": "1/Montador  (4).html",
+      "nome": "🚀 Setup Dashboard - Monorepo",
+      "desc": "",
+      "on": true,
+      "icone": ""
+    },
+    {
+      "path": "1/Montador  (5).html",
+      "nome": "📱 APK Builder - EAS",
+      "desc": "",
+      "on": true,
+      "icone": ""
+    },
+    {
+      "path": "1/Montador  (6).html",
+      "nome": "🚀 Setup Dashboard - Monorepo",
+      "desc": "",
+      "on": true,
+      "icone": ""
+    },
+    {
+      "path": "1/Montador  (7).html",
+      "nome": "Build React - Executável Funcional",
+      "desc": "",
+      "on": true,
+      "icone": ""
+    },
+    {
+      "path": "1/Montador  (8).html",
+      "nome": "🧹 Project Cleaner",
+      "desc": "",
+      "on": true,
+      "icone": ""
+    },
+    {
+      "path": "1/Montador  (9).html",
+      "nome": "🧹 Project Cleaner",
+      "desc": "",
+      "on": true,
+      "icone": ""
+    },
+    {
+      "path": "1/Montador  (10).html",
+      "nome": "🚀 Setup Dashboard",
+      "desc": "",
+      "on": true,
+      "icone": ""
+    },
+    {
+      "path": "1/Montador  (11).html",
+      "nome": "⚙️ Replit Config Manager",
+      "desc": "",
+      "on": true,
+      "icone": ""
+    },
+    {
+      "path": "1/Montador .html",
+      "nome": "Build React - Executável Funcional",
+      "desc": "",
+      "on": true,
+      "icone": ""
+    },
+    {
+      "path": "22/MANUAL-IARA-SUITE.html",
+      "nome": "Manual Iara Suite v2.0 — Maikon Caldeira OAB/MG 183712",
+      "desc": "",
+      "on": true,
+      "icone": ""
+    },
+    {
+      "path": "22/meu-html (2).html",
+      "nome": "Gerador Automático de package.json + Workflow",
+      "desc": "",
+      "on": true,
+      "icone": ""
+    },
+    {
+      "path": "22/meu-html (3).html",
+      "nome": "Gerador Automático de package.json + Workflow",
+      "desc": "",
+      "on": true,
+      "icone": ""
+    },
+    {
+      "path": "22/meu-html (4).html",
+      "nome": "Diagnóstico de Executável com Problema",
+      "desc": "",
+      "on": true,
+      "icone": ""
+    },
+    {
+      "path": "22/meu-html (5).html",
+      "nome": "Gerador de package.json REAL - Só o que Funciona",
+      "desc": "",
+      "on": true,
+      "icone": ""
+    },
+    {
+      "path": "22/meu-html (6).html",
+      "nome": "3 Ferramentas Completas - Bugs, Versões e APK",
+      "desc": "",
+      "on": true,
+      "icone": ""
+    },
+    {
+      "path": "22/meu-html (7).html",
+      "nome": "Explorador de Versões e Bugs - Replit/ZIP",
+      "desc": "",
+      "on": true,
+      "icone": ""
+    },
+    {
+      "path": "22/meu-html (8).html",
+      "nome": "3 Ferramentas Completas - Bugs, Versões e APK",
+      "desc": "",
+      "on": true,
+      "icone": ""
+    },
+    {
+      "path": "22/meu-html (9).html",
+      "nome": "📖 Gerador de Histórias com Voz",
+      "desc": "",
+      "on": true,
+      "icone": ""
+    },
+    {
+      "path": "22/meu-html.html",
+      "nome": "Analisador de Projetos + Gerador .EXE",
+      "desc": "",
+      "on": true,
+      "icone": ""
+    },
+    {
+      "path": "22/Montador  (1).html",
+      "nome": "🚀 Setup Dashboard",
+      "desc": "",
+      "on": true,
+      "icone": ""
+    },
+    {
+      "path": "22/Montador  (2).html",
+      "nome": "⚙️ Replit Config Manager",
+      "desc": "",
+      "on": true,
+      "icone": ""
+    },
+    {
+      "path": "22/Montador  (3).html",
+      "nome": "⚙️ Replit Config Manager",
+      "desc": "",
+      "on": true,
+      "icone": ""
+    },
+    {
+      "path": "22/Montador  (4).html",
+      "nome": "🚀 Setup Dashboard - Monorepo",
+      "desc": "",
+      "on": true,
+      "icone": ""
+    },
+    {
+      "path": "22/Montador  (5).html",
+      "nome": "📱 APK Builder - EAS",
+      "desc": "",
+      "on": true,
+      "icone": ""
+    },
+    {
+      "path": "22/Montador  (6).html",
+      "nome": "🚀 Setup Dashboard - Monorepo",
+      "desc": "",
+      "on": true,
+      "icone": ""
+    },
+    {
+      "path": "22/Montador  (7).html",
+      "nome": "Build React - Executável Funcional",
+      "desc": "",
+      "on": true,
+      "icone": ""
+    },
+    {
+      "path": "22/Montador  (8).html",
+      "nome": "🧹 Project Cleaner",
+      "desc": "",
+      "on": true,
+      "icone": ""
+    },
+    {
+      "path": "22/Montador  (9).html",
+      "nome": "🧹 Project Cleaner",
+      "desc": "",
+      "on": true,
+      "icone": ""
+    },
+    {
+      "path": "22/Montador  (10).html",
+      "nome": "🚀 Setup Dashboard",
+      "desc": "",
+      "on": true,
+      "icone": ""
+    },
+    {
+      "path": "22/Montador  (11).html",
+      "nome": "⚙️ Replit Config Manager",
+      "desc": "",
+      "on": true,
+      "icone": ""
+    },
+    {
+      "path": "22/Montador .html",
+      "nome": "Build React - Executável Funcional",
+      "desc": "",
+      "on": true,
+      "icone": ""
+    },
+    {
+      "path": "germine/index.html",
+      "nome": "germine",
+      "desc": "",
+      "on": true,
+      "icone": ""
+    },
+    {
+      "path": "html_css_js (5)/index.html",
+      "nome": "Meu Projeto",
+      "desc": "",
+      "on": true,
+      "icone": ""
+    },
+    {
+      "path": "html_css_js (6)/index.html",
+      "nome": "Meu Projeto",
+      "desc": "",
+      "on": true,
+      "icone": ""
+    },
+    {
+      "path": "html_css_js (6)/pasta/setup-dashboard.html",
+      "nome": "🚀 Setup Dashboard",
+      "desc": "",
+      "on": true,
+      "icone": ""
+    },
+    {
+      "path": "html_css_js (7)/1/index.html",
+      "nome": "Meu Projeto",
+      "desc": "",
+      "on": true,
+      "icone": ""
+    },
+    {
+      "path": "html_css_js (7)/pasta/setup-dashboard.html",
+      "nome": "🚀 Setup Dashboard",
+      "desc": "",
+      "on": true,
+      "icone": "html_css_js (7)/pasta/icons/icon.svg"
+    },
+    {
+      "path": "html_css_js (7)/pasta3/ui.html",
+      "nome": "⚙️ Replit Config Manager",
+      "desc": "",
+      "on": true,
+      "icone": ""
+    },
+    {
+      "path": "pasta/setup-dashboard.html",
+      "nome": "🚀 Setup Dashboard",
+      "desc": "",
+      "on": true,
+      "icone": ""
+    }
+  ],
+  "sub": "",
+  "logo": "",
+  "tema": "escuro",
+  "links": []
+}
