@@ -1,7 +1,7 @@
-// service-worker.js — gerado pelo Mini SK em 14/10/2026, 09:07:31
+// service-worker.js — gerado pelo Mini SK em 14/10/2026, 09:19:32
 // Não precisa mexer: ele guarda sozinho o que o app usa.
 const PREFIXO = 'sk-backup-1-';
-const CACHE = PREFIXO + 'mv82f06z';
+const CACHE = PREFIXO + 'mv82uglq';
 // Lista feita automaticamente (para funcionar sem internet logo após instalar)
 const GUARDAR = [
   "./",
@@ -44,6 +44,16 @@ const GUARDAR = [
   "./22/Montador  (10).html",
   "./22/Montador  (11).html",
   "./22/Montador .html",
+  "./android/app/build.gradle",
+  "./android/app/src/main/AndroidManifest.xml",
+  "./android/app/src/main/assets/__ponte.js",
+  "./android/app/src/main/java/app/minisk/shell/MainActivity.java",
+  "./android/app/src/main/res/mipmap-xxxhdpi/ic_launcher.png",
+  "./android/app/src/main/res/xml/rede.xml",
+  "./android/build.gradle",
+  "./android/gradle.properties",
+  "./android/settings.gradle",
+  "./apk.config.json",
   "./favicon.ico",
   "./germine/index.html",
   "./html_css_js (5)/1.md",
