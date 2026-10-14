@@ -1,8 +1,8 @@
 {
-  "name": "backup-1",
-  "short_name": "backup-1",
+  "name": "backup1",
+  "short_name": "backup1",
   "description": "backup-1",
-  "id": "./app-backup-1",
+  "id": "./app-backup1",
   "start_url": "./",
   "scope": "./",
   "display": "standalone",

@@ -1,19 +1,19 @@
 # 📋 Plano do projeto: backup-1
 
-_Gerado em 14/10/2026, 09:19:32 — sem IA, lendo os arquivos._
+_Gerado em 14/10/2026, 09:21:24 — sem IA, lendo os arquivos._
 
 ## 📊 Visão geral
 | Item | Valor |
 |---|---|
-| Arquivos | 170 |
-| Linhas | 28.603 |
+| Arquivos | 171 |
+| Linhas | 28.931 |
 | Telas/páginas | 43 |
 | Rotas do backend | 0 |
 | Chamadas do app | 0 |
 | Tabelas do banco | 0 |
 | Variáveis de ambiente | 2 |
 
-**Linguagens:** HTML (43), JavaScript (32), Imagem (30), JSON (20), Markdown (19), Outros (7), CSS (6), Shell (4), Imagem SVG (4), YAML (3), Ícone (2)
+**Linguagens:** HTML (43), JavaScript (32), Imagem (30), JSON (20), Markdown (20), Outros (7), CSS (6), Shell (4), Imagem SVG (4), YAML (3), Ícone (2)
 
 ## 🧩 Apps dentro deste projeto
 - html_css_js (7)/pasta3 (monorepo-root)
@@ -314,6 +314,7 @@ _Só os nomes. Os valores (chaves, senhas) nunca vão no código nem no GitHub._
 ├─ index.html
 ├─ manifest.json
 ├─ package.json
+├─ PLANO.md
 ├─ README.md
 ├─ server.js
 ├─ service-worker.js

@@ -1,7 +1,7 @@
-// service-worker.js — gerado pelo Mini SK em 14/10/2026, 09:19:32
+// service-worker.js — gerado pelo Mini SK em 14/10/2026, 09:21:23
 // Não precisa mexer: ele guarda sozinho o que o app usa.
-const PREFIXO = 'sk-backup-1-';
-const CACHE = PREFIXO + 'mv82uglq';
+const PREFIXO = 'sk-backup1-';
+const CACHE = PREFIXO + 'mv82wups';
 // Lista feita automaticamente (para funcionar sem internet logo após instalar)
 const GUARDAR = [
   "./",
@@ -54,6 +54,8 @@ const GUARDAR = [
   "./android/gradle.properties",
   "./android/settings.gradle",
   "./apk.config.json",
+  "./electron/main.cjs",
+  "./electron/preload.cjs",
   "./favicon.ico",
   "./germine/index.html",
   "./html_css_js (5)/1.md",
@@ -167,11 +169,13 @@ const GUARDAR = [
   "./icons/maskable.svg",
   "./index.html",
   "./manifest.json",
+  "./package.json",
   "./pasta/manifest.json",
   "./pasta/setup-dashboard.css",
   "./pasta/setup-dashboard.html",
   "./pasta/setup-dashboard.js",
   "./pasta/sw.js",
+  "./PLANO.md",
   "./README.md",
   "./server.js",
   "./setup-sw-copia.js",
